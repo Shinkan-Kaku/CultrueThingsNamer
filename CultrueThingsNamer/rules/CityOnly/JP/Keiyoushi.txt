@@ -1,0 +1,13 @@
+﻿上:jou
+中:naka
+下:shimo
+東:higashi
+西:nishi
+南:minami
+北:kita
+前:mae
+後:go
+長:naga
+高:kou
+大:o
+小:shou

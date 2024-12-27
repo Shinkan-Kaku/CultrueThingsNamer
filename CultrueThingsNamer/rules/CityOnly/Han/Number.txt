@@ -1,0 +1,14 @@
+一:I
+二:Er
+三:San
+四:Si
+五:Wu
+六:Liu
+七:Qi
+八:Ba
+九:Jiu
+十:Shi
+百:Bai
+千:Qian
+萬:Wan
+雙:Shuang

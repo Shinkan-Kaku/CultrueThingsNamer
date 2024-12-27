@@ -1,0 +1,5 @@
+﻿東:dong
+西:xi
+南:nan
+北:bei
+中:zhong

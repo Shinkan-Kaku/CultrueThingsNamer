@@ -1,0 +1,13 @@
+﻿單姓單名@Han:SingleXing;Space;SecondMing
+單姓單名(現代女性)@Han:SingleXing;Space;SecondMingNu
+單姓複名@Han:SingleXing;FirstMing;SecondMing
+單姓複名(現代女性)@Han:SingleXing;FirstMingNu;SecondMingNu
+複姓單名@Han:TwinXing;Space;SecondMing
+複姓複名@Han:TwinXing;FirstMing;SecondMing
+只取名@Han:FirstMing;SecondMing
+只取名(現代女性)@Han:FirstMingNu;SecondMingNu
+朝鮮男@KR:Seong;FirstIleum;SencondIleum
+朝鮮女@KR:Seong;YeoFirstIleum;YeoSecondIleum
+日本名@JP:Sei;FirstNamae;SencondNamae
+歐美名@EN:FirstName;LastName
+企業用@TW:FirstBusiness;SecondBusiness

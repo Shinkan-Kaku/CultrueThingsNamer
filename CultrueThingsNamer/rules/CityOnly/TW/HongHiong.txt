@@ -1,0 +1,9 @@
+東:tang
+南:lam
+西:se
+北:pak
+中:tiong
+前:tsian
+後:au
+左:tso
+右:yu

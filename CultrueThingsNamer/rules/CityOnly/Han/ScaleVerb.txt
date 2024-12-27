@@ -1,0 +1,8 @@
+﻿大:da
+中:zhong
+小:xiao
+高:gao
+前:qian
+後:hou
+新:xin
+餘:yu

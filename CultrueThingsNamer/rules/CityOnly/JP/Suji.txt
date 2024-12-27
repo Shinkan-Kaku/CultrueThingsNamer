@@ -1,0 +1,13 @@
+一:ichi
+二:ni
+三:mi
+四:yo
+五:go
+五:itsu
+六:ro
+七:nana
+八:hachi
+八:ya
+九:kyu
+百:hyaku
+千:sen

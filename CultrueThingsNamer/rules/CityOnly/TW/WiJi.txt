@@ -1,0 +1,9 @@
+內:lai
+外:gua
+頭:thau
+腳:ka
+頂:ting
+尾:bue
+底:tue
+下:e
+投:tau

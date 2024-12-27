@@ -1,0 +1,11 @@
+﻿白:bai
+青:qing
+黃:huang
+金:jin
+赤:chi
+紅:hong
+朱:zhu
+黑:hei
+烏:wu
+紫:zi
+綠:lu

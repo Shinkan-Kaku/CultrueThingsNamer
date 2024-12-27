@@ -1,0 +1,8 @@
+﻿沼:numa
+浦:ura
+濱:hama
+澤:sawa
+津:tsu
+川:kawa
+島:shima
+江:e

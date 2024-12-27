@@ -1,0 +1,25 @@
+﻿葫蘆:hu lu
+牡丹:mu dan
+稻:dao
+石:shi
+岩:yan
+草:cao
+竹:zhu
+松:song
+柏:bo
+桐:tong
+梅:mei
+菊:ju
+棉:mian
+楊:yang
+蓮:lian
+荷:he
+蘭:lan
+鹽:yan
+梁:liang
+柳:liu
+玉:yu
+金:jin
+銀:yin
+銅:tong
+鐵:tie

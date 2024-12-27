@@ -1,0 +1,5 @@
+中國;Chinese;Han
+台灣;Taiwan;TW
+日本;Japanese;JP
+朝鮮;Chosen;KR
+英美;English;EN
