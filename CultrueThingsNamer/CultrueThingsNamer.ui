@@ -44,7 +44,7 @@
      <bool>false</bool>
     </property>
     <property name="currentIndex">
-     <number>2</number>
+     <number>1</number>
     </property>
     <widget class="QWidget" name="tab">
      <attribute name="title">
@@ -145,35 +145,107 @@
       </property>
       <layout class="QVBoxLayout" name="base_Layout_Tab_2">
        <item>
-        <layout class="QHBoxLayout" name="rmcanmtab_Layout_Row_1">
+        <layout class="QHBoxLayout" name="rmpstab_Layout_Row_1">
          <item>
-          <widget class="QComboBox" name="rmpstab_comboBox_RuleOptn"/>
+          <widget class="QComboBox" name="rmpstab_comboBox_CultureOptn"/>
          </item>
         </layout>
        </item>
        <item>
-        <layout class="QHBoxLayout" name="rmcanmtab_Layout_Row_2">
+        <layout class="QHBoxLayout" name="rmpstab_Layout_Row_2">
          <item>
-          <widget class="QComboBox" name="rmpstab_result_comboBox_1"/>
+          <layout class="QVBoxLayout" name="rmpstab_Layout_Row_2">
+           <item>
+            <widget class="QComboBox" name="rmpstab_result_comboBox_1"/>
+           </item>
+           <item>
+            <widget class="QCheckBox" name="rmpstab_ENMode_checkBox_1">
+             <property name="text">
+              <string>ENMode</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
          </item>
          <item>
-          <widget class="QComboBox" name="rmpstab_result_comboBox_2"/>
+          <layout class="QVBoxLayout" name="rmpstab_Layout_Row_2">
+           <item>
+            <widget class="QComboBox" name="rmpstab_result_comboBox_2"/>
+           </item>
+           <item>
+            <widget class="QCheckBox" name="rmpstab_ENMode_checkBox_2">
+             <property name="text">
+              <string>ENMode</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
          </item>
          <item>
-          <widget class="QComboBox" name="rmpstab_result_comboBox_3"/>
+          <layout class="QVBoxLayout" name="rmpstab_Layout_Row_2">
+           <item>
+            <widget class="QComboBox" name="rmpstab_result_comboBox_3"/>
+           </item>
+           <item>
+            <widget class="QCheckBox" name="rmpstab_ENMode_checkBox_3">
+             <property name="text">
+              <string>ENMode</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
          </item>
         </layout>
        </item>
        <item>
-        <layout class="QHBoxLayout" name="rmcanmtab_Layout_Row_3">
+        <layout class="QHBoxLayout" name="rmpstab_Layout_Row_3">
          <item>
-          <widget class="QLineEdit" name="rmpstab_result_lineEd_1"/>
+          <widget class="QLineEdit" name="rmpstab_result_lineEd_1">
+           <property name="minimumSize">
+            <size>
+             <width>180</width>
+             <height>64</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>180</width>
+             <height>16777215</height>
+            </size>
+           </property>
+          </widget>
          </item>
          <item>
-          <widget class="QLineEdit" name="rmpstab_result_lineEd_3"/>
+          <widget class="QLineEdit" name="rmpstab_result_lineEd_2">
+           <property name="minimumSize">
+            <size>
+             <width>180</width>
+             <height>64</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>180</width>
+             <height>16777215</height>
+            </size>
+           </property>
+          </widget>
          </item>
          <item>
-          <widget class="QLineEdit" name="rmpstab_result_lineEd_2"/>
+          <widget class="QLineEdit" name="rmpstab_result_lineEd_3">
+           <property name="minimumSize">
+            <size>
+             <width>180</width>
+             <height>64</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>180</width>
+             <height>16777215</height>
+            </size>
+           </property>
+          </widget>
          </item>
         </layout>
        </item>

@@ -1,8 +1,11 @@
 {
+	"title_CultureThingNamer":"命名者",
 	"gnlCpyOptn_CN":"中文",
 	"gnlCpyOptn_CNWS":"中文(無空格)",
 	"gnlCpyOptn_EN":"英文",
 	"gnlCpyOptn_ENWS":"英文(無空格)",
+	
+	"ckBoxENMode":"英文產生模式",
 	
 	"bnSpawn":"產生",
 	"bnCopy":"複製"

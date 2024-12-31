@@ -92,7 +92,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="RulerImporter.cpp" />
     <QtRcc Include="CultrueThingsNamer.qrc" />
     <QtUic Include="CultrueThingsNamer.ui" />
     <QtMoc Include="CultrueThingsNamer.h" />
